@@ -1,0 +1,79 @@
+﻿Build started 10-03-2013 06:28:25 AM.
+     1>Project "C:\Users\Harshith\Desktop\latest\source\Contact Manager\Contact Manager\Contact Manager.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Contact Manager.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\Contact Manager.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\MySQL\Connector NET 6.6.5\Assemblies\v4.0\MySql.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt stdafx.cpp /clr:nostdlib 
+         stdafx.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Contact Manager.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\MySQL\Connector NET 6.6.5\Assemblies\v4.0\MySql.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt Add_Contact.cpp AssemblyInfo.cpp Cn_Info.cpp "Contact Manager.cpp" Datetime.cpp developers.cpp Form2.cpp Notifications.cpp Register.cpp "Reset Password.cpp" "Restore Contact.cpp" "Restore Field.cpp" settings.cpp /clr:nostdlib 
+         Add_Contact.cpp
+         AssemblyInfo.cpp
+         Cn_Info.cpp
+         Contact Manager.cpp
+     1>c:\users\harshith\desktop\latest\source\contact manager\contact manager\Notifications.h(241): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(112) : see declaration of 'localtime'
+     1>c:\users\harshith\desktop\latest\source\contact manager\contact manager\Form2.h(955): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(112) : see declaration of 'localtime'
+         Datetime.cpp
+         developers.cpp
+         Form2.cpp
+     1>c:\users\harshith\desktop\latest\source\contact manager\contact manager\Notifications.h(241): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(112) : see declaration of 'localtime'
+     1>c:\users\harshith\desktop\latest\source\contact manager\contact manager\Form2.h(955): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(112) : see declaration of 'localtime'
+         Notifications.cpp
+     1>c:\users\harshith\desktop\latest\source\contact manager\contact manager\Notifications.h(241): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(112) : see declaration of 'localtime'
+         Register.cpp
+         Reset Password.cpp
+         Restore Contact.cpp
+         Restore Field.cpp
+         settings.cpp
+         Generating Code...
+         All outputs are up-to-date.
+       CoreResGen:
+         "c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\NETFX 4.0 Tools\resgen.exe" /useSourcePath /r:"C:\Program Files (x86)\MySQL\Connector NET 6.6.5\Assemblies\v4.0\MySql.Data.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /r:"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /compile Add_Contact.resx,Debug\ContactManager.Add_Contact.resources Cn_Info.resx,Debug\ContactManager.Cn_Info.resources Datetime.resx,Debug\ContactManager.Datetime.resources Form1.resX,Debug\ContactManager.Form1.resources Form2.resx,Debug\ContactManager.Form2.resources Notifications.resx,Debug\ContactManager.Notifications.resources Register.resx,Debug\ContactManager.Register.resources "Reset Password.resx","Debug\ContactManager.Reset Password.resources" "Restore Contact.resx","Debug\ContactManager.Restore Contact.resources" "Restore Field.resx","Debug\ContactManager.Restore Field.resources" developers.resx,Debug\ContactManager.developers.resources settings.resx,Debug\ContactManager.settings.resources
+         Processing resource file "Add_Contact.resx" into "Debug\ContactManager.Add_Contact.resources".
+         Processing resource file "Cn_Info.resx" into "Debug\ContactManager.Cn_Info.resources".
+         Processing resource file "Datetime.resx" into "Debug\ContactManager.Datetime.resources".
+         Processing resource file "Form1.resX" into "Debug\ContactManager.Form1.resources".
+         Processing resource file "Form2.resx" into "Debug\ContactManager.Form2.resources".
+         Processing resource file "Notifications.resx" into "Debug\ContactManager.Notifications.resources".
+         Processing resource file "Register.resx" into "Debug\ContactManager.Register.resources".
+         Processing resource file "Reset Password.resx" into "Debug\ContactManager.Reset Password.resources".
+         Processing resource file "Restore Contact.resx" into "Debug\ContactManager.Restore Contact.resources".
+         Processing resource file "Restore Field.resx" into "Debug\ContactManager.Restore Field.resources".
+         Processing resource file "developers.resx" into "Debug\ContactManager.developers.resources".
+         Processing resource file "settings.resx" into "Debug\ContactManager.settings.resources".
+       ResourceCompile:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\app.res" app.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Harshith\Desktop\latest\source\Contact Manager\Debug\Contact Manager.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\ContactManager.Add_Contact.resources /ASSEMBLYRESOURCE:Debug\ContactManager.Cn_Info.resources /ASSEMBLYRESOURCE:Debug\ContactManager.Datetime.resources /ASSEMBLYRESOURCE:Debug\ContactManager.developers.resources /ASSEMBLYRESOURCE:Debug\ContactManager.Form1.resources /ASSEMBLYRESOURCE:Debug\ContactManager.Form2.resources /ASSEMBLYRESOURCE:Debug\ContactManager.Notifications.resources /ASSEMBLYRESOURCE:Debug\ContactManager.Register.resources /ASSEMBLYRESOURCE:"Debug\ContactManager.Reset Password.resources" /ASSEMBLYRESOURCE:"Debug\ContactManager.Restore Contact.resources" /ASSEMBLYRESOURCE:"Debug\ContactManager.Restore Field.resources" /ASSEMBLYRESOURCE:Debug\ContactManager.settings.resources /MANIFEST /ManifestFile:"Debug\Contact Manager.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Harshith\Desktop\latest\source\Contact Manager\Debug\Contact Manager.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\Add_Contact.obj
+         Debug\AssemblyInfo.obj
+         Debug\Cn_Info.obj
+         "Debug\Contact Manager.obj"
+         Debug\Datetime.obj
+         Debug\developers.obj
+         Debug\Form2.obj
+         Debug\Notifications.obj
+         Debug\Register.obj
+         "Debug\Reset Password.obj"
+         "Debug\Restore Contact.obj"
+         "Debug\Restore Field.obj"
+         Debug\settings.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         Contact Manager.vcxproj -> C:\Users\Harshith\Desktop\latest\source\Contact Manager\Debug\Contact Manager.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Harshith\Desktop\latest\source\Contact Manager\Debug\Contact Manager.exe;#1" /manifest "Debug\Contact Manager.exe.intermediate.manifest" "Contact Manager.exe.manifest"
+         
+     1>Contact Manager.exe.manifest : manifest authoring error c1010001: Values of attribute "level" not equal in different manifest snippets.
+         
+     1>Done Building Project "C:\Users\Harshith\Desktop\latest\source\Contact Manager\Contact Manager\Contact Manager.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:11.45

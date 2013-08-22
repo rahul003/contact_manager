@@ -1,0 +1,33 @@
+10-03-2013 6:29 AM
+user logged in
+
+10-03-2013 6:29 AM
+user Refreshed Contact List
+10-03-2013 6:29 AM
+user Successfully added contact 1
+10-03-2013 6:29 AM
+user Refreshed Contact List
+10-03-2013 6:29 AM
+user viewed contact info for 1
+10-03-2013 6:29 AM
+user added a reminder for that contact
+10-03-2013 6:29 AM
+user viewed latest Notifications
+10-03-2013 6:30 AM
+user Successfully added contact wd
+10-03-2013 6:30 AM
+user Refreshed Contact List
+10-03-2013 6:30 AM
+user viewed contact info for wd
+10-03-2013 6:30 AM
+user added a reminder for that contact
+10-03-2013 6:30 AM
+user viewed latest Notifications
+10-03-2013 6:30 AM
+user viewed latest Notifications
+10-03-2013 6:31 AM
+user logged Out
+10-03-2013 6:33 AM
+user logged in
+10-03-2013 6:33 AM
+user logged Out

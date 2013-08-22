@@ -1,0 +1,13 @@
+**Installing Software :
+
+1.)Double click "ContactsPP.msi" .
+
+2.)Follow the instructions given in the setup process
+
+3.)After installing , two executable files "dbinstall" and "ContactsPlusPlus" are created.
+
+4.)First run "dbinstall" , this will create database corresponding to user settings with all the necessary fields.
+
+5.)You don't need to manually import the database or run the dump file for creating databases.
+
+6.)After this is done, you can run program by Double clicking "ContactsPlusPlus".

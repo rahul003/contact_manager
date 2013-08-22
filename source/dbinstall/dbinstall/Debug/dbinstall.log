@@ -1,0 +1,27 @@
+﻿Build started 10-03-2013 04:53:54 AM.
+     1>Project "C:\Users\Harshith\Documents\Visual Studio 2010\Projects\dbinstall\dbinstall\dbinstall.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\dbinstall.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       CoreResGen:
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         dbinstall.vcxproj -> C:\Users\Harshith\Documents\Visual Studio 2010\Projects\dbinstall\Debug\dbinstall.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Harshith\Documents\Visual Studio 2010\Projects\dbinstall\Debug\dbinstall.exe;#1" /manifest Debug\dbinstall.exe.intermediate.manifest dbinstall.exe.manifest
+         
+     1>dbinstall.exe.manifest : general error c1010070: Failed to load and parse the manifest. The system cannot find the file specified.
+         
+     1>Done Building Project "C:\Users\Harshith\Documents\Visual Studio 2010\Projects\dbinstall\dbinstall\dbinstall.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.19
